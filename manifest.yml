@@ -1,0 +1,5 @@
+applications:
+- name: emma
+  host: emmawatson
+  random-route: true
+  memory: 128M
